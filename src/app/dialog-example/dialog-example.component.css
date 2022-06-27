@@ -1,0 +1,5 @@
+.mat-dialog-title{
+  background: -prefix-linear-gradient(left, rgb(234, 99, 252), white);
+  background: linear-gradient(to right, rgba(227, 99, 241, 0.973), white);
+}
+
